@@ -1,2 +1,2 @@
 #!/bin/bash This is an empty dfkkjh
-and it is the very begining
+and it is the very begining \n
