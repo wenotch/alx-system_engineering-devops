@@ -1,1 +1,2 @@
-This is the repo for the shell navigation assignment 2
+#!/bin/bash This is the r
+epo for the shell navigation assignment 2
